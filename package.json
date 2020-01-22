@@ -26,5 +26,6 @@
   },
   "scripts": {
     "test": "grunt test-ci"
-  }
+  },
+  "main": "./dist/hyperagent.js"
 }
